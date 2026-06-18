@@ -16,7 +16,8 @@ The project is structured into two core components:
 ## 📊 The Dashboard
 *ProfitVision utilizes a dark-mode aesthetic to provide a high-level executive summary, regional performance breakdowns, and visual proof of model findings.*
 
-> **[Insert a screenshot of image_f0c821.jpg here]**
+> ### Project Preview
+<img src="dashboard.png" alt="ProfitVision Dashboard" width="900">
 
 ### Key Features
 * **Dynamic KPI Cards:** Real-time financial monitoring of Total Profit, R&D, and Marketing Spend.
